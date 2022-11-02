@@ -4,7 +4,7 @@ namespace App\Controller\Pages;
 
 use \App\Utils\View;
 use \App\model\Entity\Testimony as EntityTestimony;
-USE \WilliamCosta\DatabaseManager\Pagination;
+use \WilliamCosta\DatabaseManager\Pagination;
 
 class Testimony extends Page
 {
